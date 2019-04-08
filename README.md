@@ -15,6 +15,6 @@ Application is created with:
 To run this application, install it locally using git:
 
 ```
-$ git clone https://github.com/sumuongit/sum-100-numbers-with-50-digits-each.git
+$ git clone https://github.com/sumuongit/duplicate-numbers.git
 
 ```
