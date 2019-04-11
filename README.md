@@ -7,12 +7,12 @@
 This application finds duplicate numbers from a given set of numbers
 	
 ## Technologies
-Application is created with:
+This application is created with:
 * Visual Studio version: 2013
 * C# 
 	
 ## Setup
-To run this application, install it locally using git:
+To run this application, building the source locally using git:
 
 ```
 $ git clone https://github.com/sumuongit/duplicate-numbers.git
