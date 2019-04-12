@@ -8,7 +8,7 @@ This application finds duplicate numbers from a given set of numbers
 	
 ## Technologies
 This application is created with:
-* Visual Studio version: 2013
+* Visual Studio 2013
 * C# 
 	
 ## Setup
