@@ -2,6 +2,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [License](#license)
 
 ## General info
 This application finds duplicate numbers from a given set of numbers
@@ -18,3 +19,7 @@ To run this application, building the source locally using git:
 $ git clone https://github.com/sumuongit/duplicate-numbers.git
 
 ```
+
+## License
+[MIT License](https://github.com/sumuongit/duplicate-numbers/blob/master/LICENSE)
+
