@@ -1,12 +1,5 @@
-c:\users\sumon\documents\visual studio 2013\Projects\DuplicateNumber\DuplicateNumber\bin\Debug\DuplicateNumber.exe.config
-c:\users\sumon\documents\visual studio 2013\Projects\DuplicateNumber\DuplicateNumber\bin\Debug\DuplicateNumber.exe
-c:\users\sumon\documents\visual studio 2013\Projects\DuplicateNumber\DuplicateNumber\bin\Debug\DuplicateNumber.pdb
-c:\users\sumon\documents\visual studio 2013\Projects\DuplicateNumber\DuplicateNumber\obj\Debug\DuplicateNumber.csprojResolveAssemblyReference.cache
-c:\users\sumon\documents\visual studio 2013\Projects\DuplicateNumber\DuplicateNumber\obj\Debug\DuplicateNumber.exe
-c:\users\sumon\documents\visual studio 2013\Projects\DuplicateNumber\DuplicateNumber\obj\Debug\DuplicateNumber.pdb
 C:\Users\Sumon\Documents\Visual Studio 2013\Projects\duplicate-number\DuplicateNumber\bin\Debug\DuplicateNumber.exe.config
-C:\Users\Sumon\Documents\Visual Studio 2013\Projects\duplicate-number\DuplicateNumber\obj\Debug\DuplicateNumber.exe
-C:\Users\Sumon\Documents\Visual Studio 2013\Projects\duplicate-number\DuplicateNumber\obj\Debug\DuplicateNumber.pdb
 C:\Users\Sumon\Documents\Visual Studio 2013\Projects\duplicate-number\DuplicateNumber\bin\Debug\DuplicateNumber.exe
 C:\Users\Sumon\Documents\Visual Studio 2013\Projects\duplicate-number\DuplicateNumber\bin\Debug\DuplicateNumber.pdb
-C:\Users\Sumon\Documents\Visual Studio 2013\Projects\duplicate-number\DuplicateNumber\obj\Debug\DuplicateNumber.csprojResolveAssemblyReference.cache
+C:\Users\Sumon\Documents\Visual Studio 2013\Projects\duplicate-number\DuplicateNumber\obj\Debug\DuplicateNumber.exe
+C:\Users\Sumon\Documents\Visual Studio 2013\Projects\duplicate-number\DuplicateNumber\obj\Debug\DuplicateNumber.pdb
