@@ -1,10 +1,11 @@
-## Table of contents
-* [General info](#general-info)
+## Table of Contents
+* [General Info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Contributing](#contributing)
 * [License](#license)
 
-## General info
+## General Info
 This application finds duplicate numbers from a given set of numbers
 
 The following illustration depicts the mechanism of finding the duplicate numbers from a given array.
@@ -36,6 +37,13 @@ To run this application, building the source locally using git:
 $ git clone https://github.com/sumuongit/duplicate-numbers.git
 
 ```
+
+## Contributing
+* Fork the repository
+* Create a topic branch
+* Implement your feature or bug fix
+* Add, commit, and push your changes
+* Submit a pull request
 
 ## License
 [MIT License](https://github.com/sumuongit/duplicate-numbers/blob/master/LICENSE)
