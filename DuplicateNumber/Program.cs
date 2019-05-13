@@ -49,11 +49,13 @@ namespace DuplicateNumber
         {
             Duplicate dp = new Duplicate();
             string numWithCommas = string.Join(", ", dp.FindDuplicateNumber());
-            Console.WriteLine("An array of numbers is as follows:");
+            Console.WriteLine("INPUT: An array of numbers is as follows:");
+            Console.WriteLine("=========================================");
             Console.WriteLine("11, 15, 3, 18, 30, 22, 37, 7, 11, 8, 22, 2, 50, 41, 15, 30, 16, 27, 19, 7");
             Console.WriteLine();
-            Console.Write("Duplicate numbers are as follows: ");
-            Console.Write("{0} ", numWithCommas);           
+            Console.WriteLine("OUTPUT: Duplicate numbers are as follows: ");
+            Console.WriteLine("=========================================");
+            Console.WriteLine("{0} ", numWithCommas);           
             Console.ReadLine();
         }
     }
