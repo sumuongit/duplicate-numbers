@@ -12,13 +12,13 @@ namespace DuplicateNumber
 
         public List<int> FindDuplicateNumber()
         {
-            //COMPARE EVERY ITEM OF THE GIVEN ARRAY WITH ALL THE ITEMS OF THE ARRAY
+            // Compare every item of the given array with all the items of the array.
             for (int i = 0; i < numArray.Count(); i++)
             {
                 temp = numArray[i];
                 count = 0;
 
-                //ALREADY DUPLICATED NUMBER SHOULD NOT BE COMPARED AGAIN WITH ALL THE ITEMS OF THE GIVEN ARRAY
+                // Already duplicated number should not be compared again with all the items of the given array.
                 if (!duplicateNumberList.Contains(temp))
                 {
                     for (int j = 0; j < numArray.Count(); j++)
@@ -29,7 +29,7 @@ namespace DuplicateNumber
                         }
                     }
 
-                    //MORE THAN ONE TIME OF OCCURRENCE OF A NUMBER MEANS IT IS A DUPLICATE NUMBER
+                    // More than one time of occurrence of a number means it is a duplicate number.
                     if (count > 1)
                     {
                         if (!duplicateNumberList.Contains(temp))
